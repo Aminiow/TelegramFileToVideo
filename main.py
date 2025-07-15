@@ -15,9 +15,9 @@ logging.basicConfig(
     ]
 )
 
-API_ID = 2607941
-API_HASH = "c1c7f3e393497fed7754acc1362fccdf"
-BOT_TOKEN = "6397548584:AAGm44F0A78_LZRVKljWYDcMyZYeyaqRKPE"
+API_ID = "your_api_id"
+API_HASH = "your_api_hash"
+BOT_TOKEN = "your_bot_token"
 
 app = Client(
     "video_converter_bot",
