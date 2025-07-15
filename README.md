@@ -2,6 +2,8 @@
 
 *Transform Media Instantly, Elevate User Experience Effortlessly*
 
+<div align="center" id="top">
+
 ![last-commit](https://img.shields.io/github/last-commit/Aminiow/TelegramFileToVideo?style=flat&logo=git&logoColor=white&color=0080ff)
 ![repo-top-language](https://img.shields.io/github/languages/top/Aminiow/TelegramFileToVideo?style=flat&color=0080ff)
 ![repo-language-count](https://img.shields.io/github/languages/count/Aminiow/TelegramFileToVideo?style=flat&color=0080ff)
@@ -10,6 +12,8 @@
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=Markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white)
+
+</div>
 
 ---
 
@@ -100,4 +104,3 @@ pytest
 [⬆ Return](#top)
 
 ---
-```
