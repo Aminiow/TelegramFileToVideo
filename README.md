@@ -2,7 +2,7 @@
 
 *Transform Media Instantly, Elevate User Experience Effortlessly*
 
-<img alt="last-commit" src="./GitDocify_files/TelegramFileToVideo" class="inline-block mx-1" style="margin: 0px 2px;">
+<img alt="last-commit" src="./GitDocify_files/TelegramFileToVideo" class="inline-block mx-1" style="margin: 0px 2px;" id="top">
 <img alt="repo-top-language" src="./GitDocify_files/TelegramFileToVideo(1)" class="inline-block mx-1" style="margin: 0px 2px;">
 <img alt="repo-language-count" src="./GitDocify_files/TelegramFileToVideo(2)" class="inline-block mx-1" style="margin: 0px 2px;">
 
@@ -97,7 +97,7 @@ pytest
 
 ---
 
-[⬆ Return](https://github.com/Aminiow/TelegramFileToVideo/blob/main/README.md#top)
+[⬆ Return](https://github.com/Aminiow/TelegramFileToVideo#top)
 
 ---
 
