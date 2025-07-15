@@ -1,6 +1,5 @@
 # TelegramFileToVideo
 
-```
 *Transform Media Instantly, Elevate User Experience Effortlessly*
 
 <img alt="last-commit" src="./GitDocify_files/TelegramFileToVideo" class="inline-block mx-1" style="margin: 0px 2px;">
