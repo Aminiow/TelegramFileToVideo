@@ -1,7 +1,6 @@
-# TELEGRAMFILETOVIDEO
+# TelegramFileToVideo
 
-
-<div align="center" id="top">
+<div align="center">
   
 *Transform Media Instantly, Elevate User Experience Effortlessly*
 
@@ -37,11 +36,11 @@ TelegramFileToVideo is a developer tool that enables seamless conversion of Tele
 
 This project empowers developers to build interactive media workflows directly in Telegram. The core features include:
 
-- 🧩 **🔄 Synchronization:** Handles download, processing, and re-upload of videos efficiently.
-- 🛠️ **📝 Error Handling:** Robust management of errors and user-initiated aborts for a smooth experience.
-- 🚦 **📊 Progress Updates:** Keeps users informed with real-time progress feedback.
-- ⚙️ **Modular Design:** Facilitates easy integration and extension within larger systems.
-- 🎥 **Telegram Compatibility:** Ensures smooth handling of Telegram-specific media formats.
+- 🧩 **🔄 Synchronization:** Efficiently manages download, processing, and re-upload of videos.
+- 🛠️ **📝 Error Handling:** Robust management of errors and user-initiated aborts for smooth experience.
+- 🚦 **📊 Progress Updates:** Provides real-time progress feedback to users.
+- ⚙️ **Modular Design:** Easy integration and extension within larger systems.
+- 🎥 **Telegram Compatibility:** Smooth handling of Telegram-specific media formats.
 
 ---
 
@@ -49,59 +48,70 @@ This project empowers developers to build interactive media workflows directly i
 
 ### Prerequisites
 
-This project requires the following dependencies:
-
-- **Programming Language:** Python
-- **Package Manager:** Conda
+- **Python 3.8+**
+- **Conda** package manager (optional, but recommended)
 
 ### Installation
 
-Build TelegramFileToVideo from the source and install dependencies:
-
 1. **Clone the repository:**
 
-   ```sh
-   git clone https://github.com/Aminiow/TelegramFileToVideo
-   ```
+   ```bash
+   git clone https://github.com/Aminiow/TelegramFileToVideo.git
+````
 
-2. **Navigate to the project directory:**
+2. **Navigate into the project directory:**
 
-   ```sh
+   ```bash
    cd TelegramFileToVideo
    ```
 
-3. **Install the dependencies:**
+3. **Install dependencies:**
 
-   **Using [conda](https://docs.conda.io/):**
+   * Using Conda (recommended):
 
-   ```sh
-   conda env create -f conda.yml
-   ```
+     ```bash
+     conda env create -f conda.yml
+     conda activate telegramfiletovideo-env
+     ```
+
+   * Or using pip:
+
+     ```bash
+     pip install -r requirements.txt
+     ```
+
+---
 
 ### Usage
 
-Run the project with:
+Activate your environment (if using conda):
 
-**Using [conda](https://docs.conda.io/):**
-
-```sh
-conda activate {venv}
-python {entrypoint}
+```bash
+conda activate telegramfiletovideo-env
 ```
+
+Run the main script:
+
+```bash
+python main.py
+```
+
+---
 
 ### Testing
 
-TelegramFileToVideo uses the {**test_framework**} test framework. Run the test suite with:
+This project uses **pytest** for testing.
 
-**Using [conda](https://docs.conda.io/):**
+Run tests with:
 
-```sh
-conda activate {venv}
+```bash
 pytest
 ```
 
 ---
 
-[⬆ Return](#top)
+[⬆ Return](#telegramfiletovideo)
+
+```
 
 ---
