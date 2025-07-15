@@ -97,7 +97,7 @@ pytest
 
 ---
 
-[⬆ Return](https://www.blackbox.ai/chat/y287EaM#top)
+[⬆ Return](https://github.com/Aminiow/TelegramFileToVideo/blob/main/README.md#top)
 
 ---
 
