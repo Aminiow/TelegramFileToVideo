@@ -2,15 +2,17 @@
 
 *Transform Media Instantly, Elevate User Experience Effortlessly*
 
-<img alt="last-commit" src="./GitDocify_files/TelegramFileToVideo" class="inline-block mx-1" style="margin: 0px 2px;" id="top">
-<img alt="repo-top-language" src="./GitDocify_files/TelegramFileToVideo(1)" class="inline-block mx-1" style="margin: 0px 2px;">
-<img alt="repo-language-count" src="./GitDocify_files/TelegramFileToVideo(2)" class="inline-block mx-1" style="margin: 0px 2px;">
+<div align="center" class="text-center">
+<h1>TELEGRAMFILETOVIDEO</h1>
+<p><em>Transform Media Instantly, Elevate User Experience Effortlessly</em></p>
 
-*Built with the tools and technologies:*
-
-<img alt="Markdown" src="./GitDocify_files/Markdown-000000.svg" class="inline-block mx-1" style="margin: 0px 2px;">
-<img alt="Python" src="./GitDocify_files/Python-3776AB.svg" class="inline-block mx-1" style="margin: 0px 2px;">
-
+<img alt="last-commit" src="https://img.shields.io/github/last-commit/Aminiow/TelegramFileToVideo?style=flat&amp;logo=git&amp;logoColor=white&amp;color=0080ff" class="inline-block mx-1" style="margin: 0px 2px;">
+<img alt="repo-top-language" src="https://img.shields.io/github/languages/top/Aminiow/TelegramFileToVideo?style=flat&amp;color=0080ff" class="inline-block mx-1" style="margin: 0px 2px;">
+<img alt="repo-language-count" src="https://img.shields.io/github/languages/count/Aminiow/TelegramFileToVideo?style=flat&amp;color=0080ff" class="inline-block mx-1" style="margin: 0px 2px;">
+<p><em>Built with the tools and technologies:</em></p>
+<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&amp;logo=Markdown&amp;logoColor=white" class="inline-block mx-1" style="margin: 0px 2px;">
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&amp;logo=Python&amp;logoColor=white" class="inline-block mx-1" style="margin: 0px 2px;">
+</div>
 ---
 
 ## Table of Contents
