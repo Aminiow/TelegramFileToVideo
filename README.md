@@ -57,7 +57,7 @@ This project empowers developers to build interactive media workflows directly i
 
    ```bash
    git clone https://github.com/Aminiow/TelegramFileToVideo.git
-````
+```
 
 2. **Navigate into the project directory:**
 
