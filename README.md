@@ -113,5 +113,3 @@ pytest
 [⬆ Return](#telegramfiletovideo)
 
 ```
-
----
