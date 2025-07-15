@@ -1,139 +1,178 @@
 # TelegramFileToVideo
 
-*Transform Media Instantly, Elevate User Experience Effortlessly*
+<div
+  data-state="active"
+  data-orientation="horizontal"
+  role="tabpanel"
+  aria-labelledby="radix-:r15:-trigger-preview"
+  id="radix-:r15:-content-preview"
+  tabindex="0"
+  class="mt-2 ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
+  style=""
+>
+  <div class="border border-border rounded-lg bg-background p-6 shadow-sm">
+    <div
+      class="prose prose-sm md:prose-base lg:prose-lg max-w-none prose-headings:font-bold prose-a:text-blue-600"
+      style="user-select: none"
+    >
+      <div id="top" class="">
+        <div align="center" class="text-center">
+          <h1>TELEGRAMFILETOVIDEO</h1>
+          <p>
+            <em
+              >Transform Media Instantly, Elevate User Experience
+              Effortlessly</em
+            >
+          </p>
 
-<div align="center" class="text-center">
-<h1>TELEGRAMFILETOVIDEO</h1>
-<p><em>Transform Media Instantly, Elevate User Experience Effortlessly</em></p>
-
-<img alt="last-commit" src="https://img.shields.io/github/last-commit/Aminiow/TelegramFileToVideo?style=flat&amp;logo=git&amp;logoColor=white&amp;color=0080ff" class="inline-block mx-1" style="margin: 0px 2px;">
-<img alt="repo-top-language" src="https://img.shields.io/github/languages/top/Aminiow/TelegramFileToVideo?style=flat&amp;color=0080ff" class="inline-block mx-1" style="margin: 0px 2px;">
-<img alt="repo-language-count" src="https://img.shields.io/github/languages/count/Aminiow/TelegramFileToVideo?style=flat&amp;color=0080ff" class="inline-block mx-1" style="margin: 0px 2px;">
-<p><em>Built with the tools and technologies:</em></p>
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&amp;logo=Markdown&amp;logoColor=white" class="inline-block mx-1" style="margin: 0px 2px;">
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&amp;logo=Python&amp;logoColor=white" class="inline-block mx-1" style="margin: 0px 2px;">
-</div>
----
-
-## Table of Contents
-
-*   [Overview](#overview)
-*   [Getting Started](#getting-started)
-    *   [Prerequisites](#prerequisites)
-    *   [Installation](#installation)
-    *   [Usage](#usage)
-    *   [Testing](#testing)
-
----
-
-## Overview
-
-TelegramFileToVideo is a developer tool that enables seamless conversion of Telegram media files into video formats within a bot environment. It streamlines the process of downloading, processing, and re-uploading videos as streamable files, all while providing real-time feedback and control to users.
-
-**Why TelegramFileToVideo?**
-
-This project empowers developers to build interactive media workflows directly in Telegram. The core features include:
-
-*   🧩 **🔄 Synchronization:** Handles download, processing, and re-upload of videos efficiently.
-*   🛠️ **📝 Error Handling:** Robust management of errors and user-initiated aborts for a smooth experience.
-*   🚦 **📊 Progress Updates:** Keeps users informed with real-time progress feedback.
-*   ⚙️ **Modular Design:** Facilitates easy integration and extension within larger systems.
-*   🎥 **Telegram Compatibility:** Ensures smooth handling of Telegram-specific media formats.
-
----
-
-## Getting Started
-
-### Prerequisites
-
-This project requires the following dependencies:
-
-*   **Programming Language:** Python
-*   **Package Manager:** Conda
-
-### Installation
-
-Build TelegramFileToVideo from the source and install dependencies:
-
-1.  **Clone the repository:**
-
-    ```sh
-    ❯ git clone https://github.com/Aminiow/TelegramFileToVideo
-    ```
-
-2.  **Navigate to the project directory:**
-
-    ```sh
-    ❯ cd TelegramFileToVideo
-    ```
-
-3.  **Install the dependencies:**
-
-    **Using [conda](https://docs.conda.io/):**
-
-    ```sh
-    ❯ conda env create -f conda.yml
-    ```
-
-### Usage
-
-Run the project with:
-
-**Using [conda](https://docs.conda.io/):**
-
-```sh
-conda activate {venv}
+          <img
+            alt="last-commit"
+            src="https://img.shields.io/github/last-commit/Aminiow/TelegramFileToVideo?style=flat&amp;logo=git&amp;logoColor=white&amp;color=0080ff"
+            class="inline-block mx-1"
+            style="margin: 0px 2px"
+          />
+          <img
+            alt="repo-top-language"
+            src="https://img.shields.io/github/languages/top/Aminiow/TelegramFileToVideo?style=flat&amp;color=0080ff"
+            class="inline-block mx-1"
+            style="margin: 0px 2px"
+          />
+          <img
+            alt="repo-language-count"
+            src="https://img.shields.io/github/languages/count/Aminiow/TelegramFileToVideo?style=flat&amp;color=0080ff"
+            class="inline-block mx-1"
+            style="margin: 0px 2px"
+          />
+          <p><em>Built with the tools and technologies:</em></p>
+          <img
+            alt="Markdown"
+            src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&amp;logo=Markdown&amp;logoColor=white"
+            class="inline-block mx-1"
+            style="margin: 0px 2px"
+          />
+          <img
+            alt="Python"
+            src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&amp;logo=Python&amp;logoColor=white"
+            class="inline-block mx-1"
+            style="margin: 0px 2px"
+          />
+        </div>
+        <br />
+        <hr />
+        <h2>Table of Contents</h2>
+        <ul class="list-disc pl-4 my-0">
+          <li class="my-0"><a href="#overview">Overview</a></li>
+          <li class="my-0">
+            <a href="#getting-started">Getting Started</a>
+            <ul class="list-disc pl-4 my-0">
+              <li class="my-0">
+                <a href="#prerequisites">Prerequisites</a>
+              </li>
+              <li class="my-0">
+                <a href="#installation">Installation</a>
+              </li>
+              <li class="my-0"><a href="#usage">Usage</a></li>
+              <li class="my-0">
+                <a href="#testing">Testing</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+        <hr />
+        <h2>Overview</h2>
+        <p>
+          TelegramFileToVideo is a developer tool that enables seamless
+          conversion of Telegram media files into video formats within a bot
+          environment. It streamlines the process of downloading, processing,
+          and re-uploading videos as streamable files, all while providing
+          real-time feedback and control to users.
+        </p>
+        <p><strong>Why TelegramFileToVideo?</strong></p>
+        <p>
+          This project empowers developers to build interactive media workflows
+          directly in Telegram. The core features include:
+        </p>
+        <ul class="list-disc pl-4 my-0">
+          <li class="my-0">
+            🧩 <strong>🔄 Synchronization:</strong> Handles download,
+            processing, and re-upload of videos efficiently.
+          </li>
+          <li class="my-0">
+            🛠️ <strong>📝 Error Handling:</strong> Robust management of errors
+            and user-initiated aborts for a smooth experience.
+          </li>
+          <li class="my-0">
+            🚦 <strong>📊 Progress Updates:</strong> Keeps users informed with
+            real-time progress feedback.
+          </li>
+          <li class="my-0">
+            ⚙️ <strong>Modular Design:</strong> Facilitates easy integration and
+            extension within larger systems.
+          </li>
+          <li class="my-0">
+            🎥 <strong>Telegram Compatibility:</strong> Ensures smooth handling
+            of Telegram-specific media formats.
+          </li>
+        </ul>
+        <hr />
+        <h2>Getting Started</h2>
+        <h3>Prerequisites</h3>
+        <p>This project requires the following dependencies:</p>
+        <ul class="list-disc pl-4 my-0">
+          <li class="my-0"><strong>Programming Language:</strong> Python</li>
+          <li class="my-0"><strong>Package Manager:</strong> Conda</li>
+        </ul>
+        <h3>Installation</h3>
+        <p>
+          Build TelegramFileToVideo from the source and install dependencies:
+        </p>
+        <ol>
+          <li class="my-0">
+            <p><strong>Clone the repository:</strong></p>
+            <pre><code class="language-sh">❯ git clone https://github.com/Aminiow/TelegramFileToVideo
+</code></pre>
+          </li>
+          <li class="my-0">
+            <p>
+              <strong>Navigate to the project directory:</strong>
+            </p>
+            <pre><code class="language-sh">❯ cd TelegramFileToVideo
+</code></pre>
+          </li>
+          <li class="my-0">
+            <p><strong>Install the dependencies:</strong></p>
+          </li>
+        </ol>
+        <p>
+          <strong>Using <a href="https://docs.conda.io/">conda</a>:</strong>
+        </p>
+        <pre><code class="language-sh">❯ conda env create -f conda.yml
+</code></pre>
+        <h3>Usage</h3>
+        <p>Run the project with:</p>
+        <p>
+          <strong>Using <a href="https://docs.conda.io/">conda</a>:</strong>
+        </p>
+        <pre><code class="language-sh">conda activate {venv}
 python {entrypoint}
-```
-
-### Testing
-
-Telegramfiletovideo uses the {**test_framework**} test framework. Run the test suite with:
-
-**Using conda:**
-
-```
-conda activate {venv}
+</code></pre>
+        <h3>Testing</h3>
+        <p>
+          Telegramfiletovideo uses the {<strong>test_framework</strong>} test
+          framework. Run the test suite with:
+        </p>
+        <p>
+          <strong>Using <a href="https://docs.conda.io/">conda</a>:</strong>
+        </p>
+        <pre><code class="language-sh">conda activate {venv}
 pytest
-```
-
----
-
-[⬆ Return](https://github.com/Aminiow/TelegramFileToVideo#top)
-
----
-
-```
-
-**2. Changes to GitHub:**
-
-To apply these changes to a GitHub repository, you would typically follow these steps:
-
-*   **Create a new branch:** It's good practice to create a new branch for your changes to avoid directly modifying the `main` or `master` branch.
-    ```bash
-    git checkout -b update-readme
-    ```
-*   **Update the README.md file:** Replace the existing content of your `README.md` file with the extracted content provided above.
-*   **Add the modified file:** Stage the changes to be committed.
-    ```bash
-    git add README.md
-    ```
-*   **Commit the changes:** Commit the changes with a descriptive message.
-    ```bash
-    git commit -m "Update README with GitDocify generated content for TelegramFileToVideo"
-    ```
-*   **Push the branch to GitHub:** Push your new branch to your GitHub repository.
-    ```bash
-    git push origin update-readme
-    ```
-*   **Create a Pull Request (PR):** Go to your GitHub repository in your web browser. You will see a prompt to create a pull request from your `update-readme` branch to the `main` (or `master`) branch.
-    *   Review the changes.
-    *   Add a clear title and description for your PR.
-    *   Request a review from a team member if applicable.
-*   **Merge the Pull Request:** Once the PR is approved (if reviews are required), merge it into your `main` (or `master`) branch. This will update the `README.md` file in your main branch.
-*   **Delete the branch (optional):** After merging, you can delete the `update-readme` branch from both your local and remote repositories.
-    ```bash
-    git branch -d update-readme
-    git push origin --delete update-readme
-    ```
-```
+</code></pre>
+        <hr />
+        <div align="left" class="">
+          <a href="#top">⬆ Return</a>
+        </div>
+        <hr />
+      </div>
+    </div>
+  </div>
+</div>
